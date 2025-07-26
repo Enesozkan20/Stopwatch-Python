@@ -7,7 +7,7 @@
 A high-performance stopwatch application built with **PyQt5**, featuring millisecond precision and professional UI.
 
 # 📺 Preview 
-![Stopwatch2025-07-2616-12-16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5b1a8a43-7454-4f28-bf3a-ce0c0729b68f)
+![Stopwatch2025-07-2616-12-16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af7cd9ce-4579-4014-8600-54476e84c5b6)
 
 ## ✨ Features
 - **High-Accuracy Timing**:
